@@ -30,7 +30,7 @@ O estudo utiliza dados reais de **fauna de Collembola** (artrópodes do solo) co
 
 ## 🛠️ Como Visualizar e Replicar
 
-O relatório completo e finalizado está contido no arquivo **`[Trabalho].qmd`** ou **`Trabalho.html`** .
+O relatório completo e finalizado está contido no arquivo **`[Trabalho].qmd`** ou **`Trabalho.html`** . https://aila13.github.io/Trabalho-03-INTRODU-O-AOS-SOFTWARES-ESTAT-STICOS/
 
 ### Arquivos Principais
 
